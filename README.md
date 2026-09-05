@@ -1,3 +1,7 @@
+# Since the codebase & the core has too much problem and hard to test, a new DSP core written with Rust is in progress. This project is abandoned.
+
+---
+
 # ViPER4Android
 
 > ### 💡 Why another fork?
